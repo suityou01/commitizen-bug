@@ -1,0 +1,3 @@
+# exit 1
+# npm test
+echo "pre-commit hook"
