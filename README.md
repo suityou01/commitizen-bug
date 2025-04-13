@@ -5,8 +5,8 @@
 | change_type | version_bump | change_log | skip_ci | gitmoji |
 |---|---|---|---|---|
 | bug fix | patch | yes | no  | :bug: |
-| feature | minor | yes | no  | :feat: |
-| documentation | none | yes | yes | :memo |
+| feature | minor | yes | no  | :sparkles: |
+| documentation | none | yes | yes | :memo: |
 | style changes | none | yes | yes | :lipstick: |
 | refactor | none | yes | yes | :recycle: |
 | performance | patch | yes | yes | :zap: |
