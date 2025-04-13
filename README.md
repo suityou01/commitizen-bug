@@ -10,7 +10,7 @@
 | style changes | none | yes | yes | :lipstick: |
 | refactor | none | yes | yes | :recycle: |
 | performance | patch | yes | yes | :zap: |
-| test | none | patch | yes | no | :test_tube: |
+| test | patch | yes | no | :test_tube: |
 | upgrade dependencies | patch | yes | no | :arrow_up: |
 | update ci pipeline | none | yes | no | :construction_worker: |
 | Update code due to external API changes | patch | yes | no | :alien: |
